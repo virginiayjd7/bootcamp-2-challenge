@@ -32,6 +32,9 @@ tmv archivo_nuevo.txt archivo_viejo.txt
 ```bash
 echo "Nueva línea de texto" > archivo_viejo
 ```
+```bash
+cat archivo_viejo.txt
+```
 - Cambia los permisos de este archivo para que todos los usuarios puedan leer, escribir y ejecutarlo.
 
 ```bash
