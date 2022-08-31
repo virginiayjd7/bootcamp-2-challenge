@@ -30,7 +30,7 @@ tmv archivo_nuevo.txt archivo_viejo.txt
 - Añade el texto "Nueva línea de texto" al archivo desde el terminal.
 
 ```bash
-echo "Nueva línea de texto" > archivo_viejo
+echo "Nueva línea de texto" > archivo_viejo.txt
 ```
 ```bash
 cat archivo_viejo.txt
